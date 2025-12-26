@@ -96,10 +96,13 @@ We will use the files in this folder to install osTicket and some of the depende
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="2376" height="1336" alt="image" src="https://github.com/user-attachments/assets/20a8cef6-fab9-4f45-aa19-7f5c79779418" />
+  <img width="822" height="746" alt="image" src="https://github.com/user-attachments/assets/6d2a9dc0-73f6-411c-aa9b-637cbf7c3d57" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Install / Enable IIS in Windows WITH CGI
+World Wide Web Services -> Application Development Features -> [X] CGI
 </p>
 <br />
 </p>
