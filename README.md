@@ -21,12 +21,48 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Windows 10</b> (21H2)
 
 <h2>List of Prerequisites</h2>
+### 1. Infrastructure and Environment
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+* **Virtual Machine:** An Azure Virtual Machine running Windows 10 with 4 vCPUs.
+
+
+* **Remote Access:** A Remote Desktop client to log into the virtual machine.
+
+
+
+### 2. Core Software and Roles
+
+* **Web Server:** Internet Information Services (IIS) enabled on Windows with the **CGI** feature active.
+
+
+* **Database Management:** [MySQL 5.5.62](https://www.google.com/search?q=https://drive.google.com/file/d/1_OWh9p7VQLcrB0q_V7qT8yHl0xo5gv7z/view%3Fusp%3Dshare_link) and [HeidiSQL](https://docs.google.com/document/d/1WovrX2DaS9xkfaSr4LXyB4YnnWpXIgPCMMbbfgHmGVw/edit) for database creation and management.
+
+
+* **Runtime:** PHP 7.3.8 and the [Microsoft Visual C++ Redistributable (VC_redist.x86.exe)](https://www.google.com/search?q=https://drive.google.com/file/d/1s1OsGF3-ioO0_9LYizPRiVuIkb3lFJgH/view%3Fusp%3Dshare_link).
+
+
+
+### 3. Required Extensions and Modules
+
+* **IIS Modules:** PHP Manager for IIS and the URL Rewrite Module.
+
+
+* **PHP Extensions:** The following extensions must be enabled within PHP Manager:
+* `php_imap.dll` 
+
+
+* `php_intl.dll` 
+
+
+* `php_opcache.dll` 
+
+
+
+
+
+### 4. Installation Assets
+
+* **Files:** The [osTicket-Installation-Files.zip](https://www.google.com/search?q=https://drive.google.com/uc%3Fexport%3Ddownload%26id%3D1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD) folder, which contains the osTicket v1.15.8 source code and necessary installers.
 
 <h2>Installation Steps</h2>
 
