@@ -71,7 +71,35 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img width="927" height="642" alt="image" src="https://github.com/user-attachments/assets/360196dc-4221-4dcd-88e2-94fc57474ce3" />
 </p>
 <p>
-Create an Azure Virtual Machine Windows 10, 4 vCPUs.
+Create an Azure Virtual Machine Windows 10, 4 vCPUs. 2 vCPUs is also ok. Ensure to keep passwords in a protected password manager. Choose a region that allows windows 10 os (ex.EastUs2)
+</p>
+<br />
+
+<p>
+<img width="870" height="854" alt="image" src="https://github.com/user-attachments/assets/d70dd678-bf42-4ecb-b2b1-15beed9e6b35" />
+</p>
+<p>
+Log into your newly created Virtual Machine with Remote Desktop. Grab the public IP and enter into the remote destop app for windows.  
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
 </p>
 <br />
 
@@ -83,10 +111,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
