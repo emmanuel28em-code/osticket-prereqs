@@ -123,10 +123,10 @@ From the “osTicket-Installation-Files” folder, install PHP Manager for IIS (
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1850" height="1144" alt="image" src="https://github.com/user-attachments/assets/7754fac0-2aa0-4e18-acaa-87a72e3aa29e" />
 </p>
 <p>
-INsert next step
+Create the directory C:\PHP
 </p>
 <br />
 </p>
