@@ -21,6 +21,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Windows 10</b> (21H2)
 
 <h2>List of Prerequisites</h2>
+
 ### 1. Infrastructure and Environment
 
 * **Virtual Machine:** An Azure Virtual Machine running Windows 10 with 4 vCPUs.
