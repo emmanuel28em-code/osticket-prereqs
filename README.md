@@ -88,7 +88,7 @@ Log into your newly created Virtual Machine with Remote Desktop. Grab the public
 </p>
 <p>
 Within the VM (osticket-vm), download the osTicket-Installation-Files.zip and unzip it onto your desktop. The folder should be called “osTicket-Installation-Files”
-We will use the files in this folder to install osTicket and some of the dependencies.Install / Enable IIS in Windows WITH CGI. World Wide Web Services -> Application Development Features -> [X] CGI
+We will use the files in this folder to install osTicket and some of the dependencies.
 
 </p>
 <br />
@@ -101,7 +101,7 @@ We will use the files in this folder to install osTicket and some of the depende
 
 </p>
 <p>
-Install / Enable IIS in Windows WITH CGI
+Install / Enable IIS in Windows WITH CGI. In Windows VM go to Control Panel > Uninstall Programs > Turn Windows features on/off > [X] Internet Information Services >
 World Wide Web Services -> Application Development Features -> [X] CGI
 </p>
 <br />
