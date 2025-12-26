@@ -71,7 +71,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img width="927" height="642" alt="image" src="https://github.com/user-attachments/assets/360196dc-4221-4dcd-88e2-94fc57474ce3" />
 </p>
 <p>
-Create an Azure Virtual Machine Windows 10, 4 vCPUs. 2 vCPUs is also ok. Ensure to keep passwords in a protected password manager. Choose a region that allows windows 10 os (ex.EastUs2)
+Create an Azure Virtual Machine Windows 10, 4 vCPUs. 2 vCPUs is also ok. Ensure that you keep passwords in a secure password manager. Choose a region that allows Windows 10 os (ex.EastUs2)
 </p>
 <br />
 
@@ -79,7 +79,7 @@ Create an Azure Virtual Machine Windows 10, 4 vCPUs. 2 vCPUs is also ok. Ensure 
 <img width="870" height="854" alt="image" src="https://github.com/user-attachments/assets/d70dd678-bf42-4ecb-b2b1-15beed9e6b35" />
 </p>
 <p>
-Log into your newly created Virtual Machine with Remote Desktop. Grab the public IP and enter into the remote destop app for windows.  
+Log in to your newly created Virtual Machine with Remote Desktop. Grab the public IP and enter it into the remote desktop app for Windows.  
 </p>
 <br />
 
