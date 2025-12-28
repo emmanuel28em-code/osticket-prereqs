@@ -170,10 +170,12 @@ Standard Configuration ->
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1084" height="888" alt="image" src="https://github.com/user-attachments/assets/dd4728c1-85f0-4386-b2b0-810ad930af46" />
+  <img width="2118" height="1224" alt="image" src="https://github.com/user-attachments/assets/4daf5435-a042-493b-9f05-1a90538b9926" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Open IIS and run as Admin. Register PHP from within IIS (PHP Manager -> C:\PHP\php-cgi.exe)
+Reload IIS (Open IIS, Stop and Start the server)
 </p>
 <br />
 </p>
