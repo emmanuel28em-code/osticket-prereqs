@@ -136,9 +136,12 @@ Create the directory C:\PHP. Open a new File Explorer window > Open C drive - Wi
 
 <p>
 <img width="1748" height="1452" alt="image" src="https://github.com/user-attachments/assets/784fcabd-e845-4d10-9e9a-76ed0638947d" />
+  <img width="1580" height="1472" alt="image" src="https://github.com/user-attachments/assets/5ae4fa93-25f6-4f3b-9a19-42d2eafe1ddf" />
+
 </p>
 <p>
-From the “osTicket-Installation-Files” folder, unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder
+From the “osTicket-Installation-Files” folder, unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder.
+  From the “osTicket-Installation-Files” folder, install VC_redist.x86.exe.
 </p>
 <br />
 </p>
