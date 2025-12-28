@@ -126,7 +126,7 @@ From the “osTicket-Installation-Files” folder, install PHP Manager for IIS (
 <img width="1850" height="1144" alt="image" src="https://github.com/user-attachments/assets/7754fac0-2aa0-4e18-acaa-87a72e3aa29e" />
 </p>
 <p>
-Create the directory C:\PHP
+Create the directory C:\PHP. Open a new File Explorer window > Open C drive - Windows (C:) > Create new folder named PHP.
 </p>
 <br />
 </p>
