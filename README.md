@@ -172,6 +172,7 @@ Standard Configuration ->
 <p>
 <img width="1084" height="888" alt="image" src="https://github.com/user-attachments/assets/dd4728c1-85f0-4386-b2b0-810ad930af46" />
   <img width="2118" height="1224" alt="image" src="https://github.com/user-attachments/assets/4daf5435-a042-493b-9f05-1a90538b9926" />
+  <img width="1722" height="996" alt="image" src="https://github.com/user-attachments/assets/dd43e970-7784-4be5-8fde-aae904f8d9b4" />
 </p>
 <p>
 Open IIS and run as Admin. Register PHP from within IIS (PHP Manager -> C:\PHP\php-cgi.exe)
