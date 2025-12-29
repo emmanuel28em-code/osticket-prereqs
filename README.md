@@ -225,6 +225,8 @@ On the right, click “Browse *:80”
 
 <p>
 <img width="1438" height="1600" alt="image" src="https://github.com/user-attachments/assets/2d37256b-bfa1-4083-9500-677a802fa23d" />
+  <img width="1012" height="1024" alt="image" src="https://github.com/user-attachments/assets/a0e93d43-18fc-4875-be9b-4e693a0ac396" />
+  <img width="1198" height="1336" alt="image" src="https://github.com/user-attachments/assets/362dcbe6-3b45-453d-a764-01cb6780731f" />
 </p>
 <p>
 Note that some extensions are not enabled. Go back to IIS, sites -> Default -> osTicket
