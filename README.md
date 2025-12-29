@@ -247,6 +247,7 @@ Refresh the osTicket site in your browser, observe the changes
 <p>
 <img width="1562" height="994" alt="image" src="https://github.com/user-attachments/assets/8aafc165-be6f-4590-98d2-a4afb0fccdd6" />
   <img width="1524" height="1028" alt="image" src="https://github.com/user-attachments/assets/d040638c-3658-4799-bd08-56d3f530ca97" />
+  <img width="964" height="598" alt="image" src="https://github.com/user-attachments/assets/dec94b35-0103-4daa-9f3d-21ebb8782905" />
 </p>
 <p>
 Rename: ost-config.php
