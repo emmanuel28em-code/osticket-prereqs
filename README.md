@@ -245,7 +245,7 @@ Refresh the osTicket site in your browser, observe the changes
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1562" height="994" alt="image" src="https://github.com/user-attachments/assets/8aafc165-be6f-4590-98d2-a4afb0fccdd6" />
 </p>
 <p>
 Rename: ost-config.php
