@@ -188,6 +188,7 @@ Reload IIS (Open IIS, Stop and Start the server)
 
 <p>
 <img width="1706" height="1470" alt="image" src="https://github.com/user-attachments/assets/4e907299-4e81-4d0d-bed3-c12eda97ae05" />
+  <img width="1608" height="1518" alt="image" src="https://github.com/user-attachments/assets/771a119c-375a-4033-af4d-c3f0a8a697a6" />
 </p>
 <p>
 Install osTicket v1.15.8
