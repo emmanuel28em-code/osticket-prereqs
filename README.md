@@ -347,31 +347,10 @@ Click “Install Now!”
 <br />
 </p>
 <br />
+<p>
+<img width="1222" height="1272" alt="image" src="https://github.com/user-attachments/assets/1ae91725-51e6-4517-b9fa-921cdaaaf063" />
+</p>
+<p>
+Congratulations, hopefully it is installed with no errors!
+Browse to your help desk login page: http://localhost/osTicket/scp/login.php
 
-<p>
-![Uploading image.png…]()
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-</p>
-<br />
-</p>
-<br />
-</p>
-<br />
-</p>
-<br />
-</p>
-<br />
-</p>
-<br />
-
-<p>
-![Uploading image.png…]()
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
