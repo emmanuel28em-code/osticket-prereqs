@@ -353,4 +353,24 @@ Click “Install Now!”
 <p>
 Congratulations, hopefully it is installed with no errors!
 Browse to your help desk login page: http://localhost/osTicket/scp/login.php
+</p>
+<br />
+</p>
+<br />
+</p>
+<br />
+</p>
+<br />
+</p>
+<br />
+</p>
+<br />
+</p>
+<br />
+<p>
+<img width="1126" height="846" alt="image" src="https://github.com/user-attachments/assets/af65ce68-e520-467e-8303-968ea3714326" />
+  <img width="1648" height="780" alt="image" src="https://github.com/user-attachments/assets/da83a110-7039-4737-ab9a-9c2ad726b846" />
+</p>
+<p>
+Demonstration of OsTicket: Log in to OsTicket as an admin - http://localhost/osTicket/scp/login.php. Log in as an end user - http://localhost/osTicket/. Now you can create tickets as a guest and manage them as an admin. 
 
