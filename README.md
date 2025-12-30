@@ -287,6 +287,7 @@ Default email (receives email from customers)
 
 <p>
 <img width="1352" height="1390" alt="image" src="https://github.com/user-attachments/assets/5a0b4629-6c61-402d-b9ba-d4d5bc470821" />
+  <img width="1354" height="946" alt="image" src="https://github.com/user-attachments/assets/b379341c-ec1c-44ad-b155-7be9b3b9b95c" />
 </p>
 <p>
 From the “osTicket-Installation-Files” folder, install HeidiSQL. - Open Heidi SQL Create a new session, - root/root Connect to the session - Create a database called “osTicket”
