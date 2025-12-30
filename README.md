@@ -305,12 +305,73 @@ From the “osTicket-Installation-Files” folder, install HeidiSQL. - Open Heid
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1132" height="726" alt="image" src="https://github.com/user-attachments/assets/b66774b2-8a8b-4413-9bc7-ae8673cc990d" />
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
+</p>
+<br />
+</p>
+<br />
+</p>
+<br />
+</p>
+<br />
+</p>
+<br />
+</p>
+<br />
 
+<p>
+<img width="1132" height="726" alt="image" src="https://github.com/user-attachments/assets/715f26de-e303-40ba-9b30-0a8c669165e5" />
+</p>
+<p>
+Continue Setting up osTicket in the browser
+MySQL Database: osTicket
+MySQL Username: root
+MySQL Password: root
+Click “Install Now!”
+</p>
+<br />
+</p>
+<br />
+</p>
+<br />
+</p>
+<br />
+</p>
+<br />
+</p>
+<br />
+</p>
+<br />
 
+<p>
+![Uploading image.png…]()
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+</p>
+<br />
+</p>
+<br />
+</p>
+<br />
+</p>
+<br />
+</p>
+<br />
+</p>
+<br />
 
+<p>
+![Uploading image.png…]()
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
